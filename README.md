@@ -19,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathu-lmn&show_icons=true&locale=en" alt="mathu-lmn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathu-lmn&" alt="mathu-lmn" /></p>
