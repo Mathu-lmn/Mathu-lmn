@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JS, react, vue**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python**, **Arduino** or **Discord.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
