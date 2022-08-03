@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mathu_lmn</h1>
 <h3 align="center">French Engineer Student at the UTT</h3>
 
-- 🔭 I’m currently working on **my private Fivem server and a discord bot**
+- 🔭 I’m currently working on **Fivem servers and discord bots**
 
-- 🌱 I’m currently learning **JS, react, vue**
+- 🌱 I’m currently learning **JS, HTML and CSS**
 
 - 💬 Ask me about **Python**, **Arduino** or **Discord.js**
 
