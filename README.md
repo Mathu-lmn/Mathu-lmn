@@ -22,4 +22,4 @@
 
 #### 👀Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mathu-lmn.README)
+<img src = "https://komarev.com/ghpvc/?username=mathu-lmn&label=Profile%20views&color=green&style=plastic" alt = "Visitors">
