@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java** and **TS / JS**
 
-- 💬 Ask me about **LUA**, **Python**, **C**, **Arduino** or **Discord.js**
+- 💬 Ask me about **Lua**, **Python**, **C**, **Arduino** or **Discord.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
