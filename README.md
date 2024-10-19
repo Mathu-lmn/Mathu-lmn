@@ -20,9 +20,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mathu-lmn)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<p><img align="left" src="https://github-readme-stats-7dnpc9qd2-mathu-lmns-projects.vercel.app/api/top-langs?username=mathu-lmn&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mathu-lmn" /></p>  
+[Lang stats](https://github-readme-stats-7dnpc9qd2-mathu-lmns-projects.vercel.app/api/top-langs?username=mathu-lmn&show_icons=true&theme=tokyonight&locale=en&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-7dnpc9qd2-mathu-lmns-projects.vercel.app/api?username=mathu-lmn&show_icons=true&theme=tokyonight&locale=en" alt="mathu-lmn" /></p>
+[Other stats](https://github-readme-stats-7dnpc9qd2-mathu-lmns-projects.vercel.app/api?username=mathu-lmn&show_icons=true&theme=tokyonight&locale=en)
 
 
 #### 👀Profile Visits 
